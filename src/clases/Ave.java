@@ -4,6 +4,8 @@ public class Ave extends Animal{
 	protected int nHuevos;
 	protected String sexo;
 
+protected sjskakshdjqkajJakabsja
+
 	public Ave(String e,String n, int nc, String s){
 		this.especie=e;
 		this.nombre=n;
